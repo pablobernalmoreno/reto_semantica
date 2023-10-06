@@ -5,8 +5,8 @@
 * Un titulo de header, algo creativo para tu tabloide
 * Una barra de navegación con los siguientes botones: "Home", "Sign up/Log in" y por último "Avatar"
 * 3 noticias (sobre lo que te interese, no tienen que ser actuales)
-* Una publicidad en <aside/>
-* Para el <footer/> pondras tu marca: "@copyright hecho por:" (Hay un carácter especial para ponerlo)
+* Una publicidad en "aside"
+* Para el "footer" pondras tu marca: "@copyright hecho por:" (Hay un carácter especial para ponerlo)
 
   ### Documentación importante: https://www.w3schools.com/html/html5_semantic_elements.asp
-  ### Muchos éxitos
+  ### Muchos éxitos :)
