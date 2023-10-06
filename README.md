@@ -1,5 +1,5 @@
 ## Hola, espero que estés muy bien!
-### En este reto aprenderemos un poco de semántica de HTML, para eso haremos una página siguiendo el siguente esquema:
+### En este reto aprenderemos un poco de semántica de HTML (no todo es un div!), para eso haremos una página siguiendo el siguente esquema:
 ![image](https://github.com/pablobernalmoreno/reto_semantica/assets/26677733/4d69087b-1c43-4674-80c5-000a36d1ab51)
 ### La página va a ser simple, puro HTML (aunque puntos extras si le pones estilos css) y será un tabloide de noticias, que tendrá lo siguiente:
 * Un titulo de header, algo creativo para tu tabloide
